@@ -26,3 +26,6 @@ poetry.lock
 
 # pyenv, virtualenv artifacts.
 .python-version
+
+demo/env/
+/Users/fcremer29/focus/meridian_test/demo/env
